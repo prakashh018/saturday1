@@ -1,0 +1,36 @@
+.box{
+    display:grid;
+    grid-template-columns:50px 50px 50px;
+    grid-template-rows: 50px 50px 50px;
+    justify-content: center;
+    align-items:center
+}
+.a{
+    background-color:rgb(229, 182, 95);
+    text-align: center;
+    padding: 15px;
+    
+}
+*{
+    box-sizing: border-box;
+    margin:0pxpx;
+
+}
+.z{
+    background-color: aqua;
+}
+.x{
+    background-color: aquamarine;
+}
+.c{
+    background-color:rgb(10, 121, 121);
+}
+.v{
+    background-color: beige;
+}
+.b{
+    background-color: brown;
+}
+.n{
+    background-color: violet;
+}
